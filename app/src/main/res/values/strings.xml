@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">food</string>
+    <string name="notify_name">khong bo trong</string>
+    <string name="notify_do_dai">yêu cầu độ dài</string>
+    <string name="notify_name_dodai">yêu cầu đủ độ dài</string>
+    <string name="notify_giatien">yêu cầu đúng giá tiền</string>
+    <string name="notify_trung_mhau">id không được trùng nhau</string>
+</resources>
